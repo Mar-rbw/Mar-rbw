@@ -32,7 +32,8 @@ busco colaborar en proyectos de #python y buscar conocer a más gente👊💕
 -Hacer mi página web personal 📰
 -Aprender Markdown por los jajas 😂
 
-###Logros personales
+### Logros personales🏆
+
 -Participar en IRPA
 -Eximido de los ramos(1°semestre)👌
 

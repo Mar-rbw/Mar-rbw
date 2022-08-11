@@ -30,7 +30,11 @@ busco colaborar en proyectos de #python y buscar conocer a más gente👊💕
 ### Próximos objetivos 📌
 
 -Hacer mi página web personal 📰
--Rezar para eximirme de los ramos🙏
+-Aprender Markdown por los jajas 😂
+
+###Logros personales
+-Participar en IRPA
+-Eximido de los ramos(1°semestre)👌
 
 ### Mi lema:
 

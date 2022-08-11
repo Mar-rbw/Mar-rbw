@@ -1,4 +1,4 @@
-#### Las técnica Bienvenido a mi perfil, pásele 👋
+#### Bienvenido a mi perfil, pásele 👋
 
 Hola soy Robowa🤖, soy un intento de curioso con interés en la programación💻, con la intención de mejorarme cada maldito día💪.
 

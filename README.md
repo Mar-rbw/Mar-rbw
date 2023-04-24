@@ -21,7 +21,7 @@ Uso las técnicas:
 
 ### Colaboraciones
 
-busco colaborar en proyectos de #python y buscar conocer a más gente👊💕
+Busco colaborar en proyectos de #python y buscar conocer a más gente👊💕
 
 ### Contacto
 
@@ -30,12 +30,14 @@ busco colaborar en proyectos de #python y buscar conocer a más gente👊💕
 ### Próximos objetivos 📌
 
 -Hacer mi página web personal 📰
--Aprender Markdown por los jajas 😂
+-Aprender Markdown por los jajas 😂:white_check_mark:
 
 ### Logros personales🏆
 
 -Participar en IRPA
--Eximido de los ramos(1°semestre)👌
+-Pasar primer año👌
+-Participar en Digevo
+-Participar en el goinnova
 
 ### Mi lema:
 

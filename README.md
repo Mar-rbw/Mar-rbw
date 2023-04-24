@@ -30,7 +30,7 @@ Busco colaborar en proyectos de #python y buscar conocer a más gente👊💕
 ### Próximos objetivos 📌
 
 -Hacer mi página web personal 📰
--Aprender Markdown por los jajas 😂:white_check_mark:
+-Aprender Markdown :white_check_mark:
 
 ### Logros personales🏆
 

@@ -15,8 +15,8 @@ Uso las técnicas:
 ### Estoy aprendiendo : 
 
 -Python🐍
--Database Oracle 🔮
--Linux RHE ver.8.4 🎩
+-Oracle Database 🔮
+-Linux en las distro RHE ver.8.4 🎩/Debian 11:cyclone:
 -Docker🐋
 
 ### Colaboraciones

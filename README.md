@@ -15,6 +15,10 @@ Uso las técnicas:
 ### Estoy aprendiendo : 
 
 -Python🐍
+-HTML5
+-CSS
+-JS
+-TypeScript
 -Oracle Database 🔮
 -Linux en las distro RHE ver.8.4 🎩/Debian 11:cyclone:
 -Docker🐋
